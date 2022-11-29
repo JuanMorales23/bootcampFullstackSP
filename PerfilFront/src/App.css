@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.profilePicture{
+  min-width: 20%;
+  min-height: 20%;
+  max-width: 50%;
+  max-height: 50%;
+  width: 40%;
+  height: 40%;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+}
+
+.header{
+  background-color: dimgray;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.left{
+  background-color: aquamarine;
+  width: 100wh;
+  height: 100vh;
+}
+
+.right{
+  background-color: #EFEFEF;
+  width: 100wh;
+  height: 100vh;
+}
+
+.table-responsive{
+  border: 1px solid transparent !important;
+}
+
+tr, td{
+  border: 1px solid transparent;
+  text-align: start;
+}
+
+.tdIcon{
+  width: 20px;
+}
+
+.dotHide{
+  text-align: justify;
+  list-style: none;
+}
