@@ -7,8 +7,7 @@ const RightSide = () => {
         <div className="col">
           <h3>Perfil Profesional</h3>
           <p>
-            Como estudiante de ingeniería informática estoy buscando mi primera
-            oportunidad laboral enfocada en mi carrera para seguir aprendiendo y
+            Como estudiante de ingeniería informática estoy buscando una oportunidad laboral enfocada en mi carrera para seguir aprendiendo y
             desarrollarme tanto profesionalmente como en lo personal.
           </p>
           <p>
@@ -28,7 +27,7 @@ const RightSide = () => {
               <h5>Libre Gestión</h5>
             </li>
               <li className="dotHide">
-                <p>Desarollador</p>
+                <p>Desarrollador</p>
               </li>
               <li className="dotHide">
                 <p>Contacto: </p>

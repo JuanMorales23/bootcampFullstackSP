@@ -6,6 +6,10 @@ h1, h2{
   color: #EFEFEF;
 }
 
+h3{
+  margin-top: 1.4rem;
+}
+
 p{
   text-align: justify;
   margin-bottom: 5px;
@@ -24,7 +28,7 @@ p{
 }
 
 .imgHeader{
-  background: url(./assets/img/desktop-source-code-and-wallpaper-by-coding-and-programming-free-photo.jpg) 
+  background: url(./assets/img/photo-1537884944318-390069bb8665.jpg) 
   no-repeat;
   background-size: cover;
   

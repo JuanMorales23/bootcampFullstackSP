@@ -121,7 +121,7 @@ const LeftSide = () => {
             </li>
             <li><p>Respetuoso y responsable</p></li>
             <li><p>Abierto al aprendizaje y retroalimentaciones</p></li>
-            <li><p>Comprometido</p></li>
+            <li><p>Comprometido con lo que hago y me apasiona</p></li>
           </ul>
         </div>
       </div>
