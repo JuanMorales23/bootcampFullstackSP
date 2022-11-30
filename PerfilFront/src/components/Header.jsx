@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = ({name, ocupation, srcPic, altPic}) => {
   return (
-    <div className='container header'>
+    <div className='container header imgHeader'>
         <div className="row align-items-center">
             <div className='col align-items-start'>
                 <img src={srcPic} alt={altPic} className='profilePicture mt-3 mb-3 ' />

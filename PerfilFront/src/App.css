@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+h1, h2{
+  color: #EFEFEF;
+}
+
+p{
+  text-align: justify;
+  margin-bottom: 5px;
+}
 .profilePicture{
   min-width: 20%;
   min-height: 20%;
@@ -15,25 +23,31 @@
   background-size: 100% auto;
 }
 
+.imgHeader{
+  background: url(./assets/img/desktop-source-code-and-wallpaper-by-coding-and-programming-free-photo.jpg) 
+  no-repeat;
+  background-size: cover;
+  
+}
+
 .header{
-  background-color: dimgray;
   min-width: 100%;
   min-height: 100%;
 }
 
 .left{
-  background-color: aquamarine;
-  width: 100wh;
-  height: 100vh;
+  background-color: #cacaca;
+  min-width: 100wh;
+  min-height: 100vh;
 }
 
 .right{
   background-color: #EFEFEF;
-  width: 100wh;
-  height: 100vh;
+  min-width: 100wh;
+  min-height: 100vh;
 }
 
-.table-responsive{
+table{
   border: 1px solid transparent !important;
 }
 
@@ -42,11 +56,23 @@ tr, td{
   text-align: start;
 }
 
+a{
+  color: black;
+}
 .tdIcon{
   width: 20px;
 }
 
-.dotHide{
+.imgIcon{
+  min-width: 40px;
+  max-width: 40px;
+  max-height: 40px;
+}
+
+li{
   text-align: justify;
+}
+
+.dotHide{
   list-style: none;
 }
